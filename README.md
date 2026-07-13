@@ -20,7 +20,7 @@ A modern **React-based typing speed test** that helps users improve their typing
 
 ## 🚀 Live Demo
 
-**Coming Soon**
+🔗https://speedo-type-one.vercel.app/
 
 ---
 
