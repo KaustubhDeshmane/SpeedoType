@@ -12,6 +12,8 @@ A modern **React-based typing speed test** that helps users improve their typing
 ![Vite](https://img.shields.io/badge/Vite-7-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![CSS3](https://img.shields.io/badge/CSS3-Styled-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Version](https://img.shields.io/badge/Version-v1.0.0-blue?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
 </div>
@@ -20,7 +22,7 @@ A modern **React-based typing speed test** that helps users improve their typing
 
 ## 🚀 Live Demo
 
-🔗https://speedo-type-one.vercel.app/
+👉 https://speedo-type-one.vercel.app/
 
 ---
 
@@ -43,6 +45,9 @@ The project focuses on delivering a distraction-free typing experience while mai
 - 🔄 Instant Restart
 - 📱 Fully Responsive Design
 - 🎨 Modern Glassmorphism Interface
+- 🔊 Typing Sound Toggle
+- ⌨️ Monkeytype-inspired Blinking Caret
+- 🟢🟡🔴 Live Character Status Highlighting
 - 💾 Persistent Best Score Storage
 
 ---
@@ -69,6 +74,8 @@ SpeedoType/
 │
 ├── src/
 │   ├── assets/
+|   |   ├── react.svg
+|   │   └── typing.mp3
 │   │
 │   ├── components/
 │   │   ├── Body.jsx
@@ -76,6 +83,9 @@ SpeedoType/
 │   │   ├── Navbar.jsx
 │   │   └── Navbar.css
 │   │
+|   ├── data/
+│   |    └── paragraphs.js
+|   |
 │   ├── App.jsx
 │   ├── App.css
 │   ├── index.css
@@ -140,26 +150,28 @@ npm run preview
 
 # 📌 Current Features
 
-- Real-time typing statistics
-- Dynamic paragraph generation
-- Best score persistence
-- Difficulty selection
-- Theme switching
-- Responsive layout
-- Interactive UI
-- Smooth user experience
+- ⚡ Real-time WPM tracking
+- 🎯 Live accuracy calculation
+- 🏆 Persistent best score
+- 🌙 Dark & Light mode
+- 📚 Three difficulty levels
+- 🔊 Typing sound effects
+- ⌨️ Blinking typing caret
+- 🎨 Monkeytype-style highlighting
+- 💾 Local storage support
+- 📱 Responsive design
 
 ---
 
 # 🚀 Future Enhancements
 
-- ⏱️ Multiple Timer Modes
-- 🎵 Typing Sound Effects
-- 📈 Animated Statistics
-- ✨ Typing Caret Animation
-- 🎉 Completion Animations
-- 📚 Larger Paragraph Library
-- 📊 Detailed Result Analytics
+- ⏱️ Timer Modes (15s / 30s / 60s)
+- 📊 Advanced Typing Analytics
+- 🏅 Achievement System
+- 🎨 Multiple Themes
+- 🌍 Custom Paragraph Categories
+- 👥 Multiplayer Typing Mode
+- 📈 User Statistics Dashboard
 
 ---
 
