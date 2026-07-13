@@ -1,4 +1,3 @@
-````markdown
 <div align="center">
 
 # ⚡ SpeedoType
@@ -220,4 +219,3 @@ Feel free to reach out for collaboration, suggestions, or feedback.
 Made with ❤️ by **Kaustubh Deshmane**
 
 </div>
-````
