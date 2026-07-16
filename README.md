@@ -47,7 +47,7 @@ The project focuses on delivering a distraction-free typing experience while mai
 - 🎨 Modern Glassmorphism Interface
 - 🔊 Typing Sound Toggle
 - ⌨️ Monkeytype-inspired Blinking Caret
-- 🟢🟡🔴 Live Character Status Highlighting
+- 🟢🔴 Live Character Status Highlighting
 - 💾 Persistent Best Score Storage
 
 ---
